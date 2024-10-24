@@ -31,7 +31,7 @@ input {
 
 button {
     padding: 10px 15px;
-    background-color: #28a745;
+    background-color: #00ff3c;
     color: rgb(134, 104, 104);
     border: none;
     border-radius: 5px;
@@ -48,10 +48,10 @@ table {
 }
 
 th, td {
-    border: 1px solid #be2727;
+    border: 1px solid #c2f169;
     padding: 8px;
 }
 
 th {
-    background-color: #1978af;
+    background-color: #20a0eb;
 }
