@@ -2,13 +2,13 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 20px;
-    background-color: #f4f4f4;
+    background-color: #ad6b6b;
 }
 
 .container {
     max-width: 600px;
     margin: auto;
-    background: white;
+    background: rgb(204, 177, 177);
     padding: 20px;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
@@ -32,7 +32,7 @@ input {
 button {
     padding: 10px 15px;
     background-color: #28a745;
-    color: white;
+    color: rgb(134, 104, 104);
     border: none;
     border-radius: 5px;
     cursor: pointer;
@@ -48,10 +48,10 @@ table {
 }
 
 th, td {
-    border: 1px solid #ddd;
+    border: 1px solid #be2727;
     padding: 8px;
 }
 
 th {
-    background-color: #f2f2f2;
+    background-color: #1978af;
 }
